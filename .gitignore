@@ -3,6 +3,8 @@
 *.iws
 *.ipr
 .idea
+out
+bin
 
 # Java compiled classes
 *.class
