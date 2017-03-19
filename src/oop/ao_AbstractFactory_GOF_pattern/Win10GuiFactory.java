@@ -6,6 +6,7 @@ package oop.ao_AbstractFactory_GOF_pattern;
 public class Win10GuiFactory implements GuiFactory {
     @Override
     public Button createButton() {
+        //..configuration..
         return new WindowsButton("wwwww");
     }
 }
