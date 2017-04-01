@@ -97,7 +97,7 @@ public class JavaFX_DrawOnCanvas extends Application {
         gc.setStroke(Color.BLACK);
         gc.setLineWidth(5);
 
-        gc.fill();
+        //gc.fill();
         gc.strokeRect(
                 0,              //x of the upper left corner
                 0,              //y of the upper left corner
