@@ -8,9 +8,9 @@ import java.io.Reader;
 /**
  * Created by root on 19.03.17.
  */
-public class Main {
+public class LoadResourceFromClasspathDemo {
     public static void main(String[] args) {
-        new Main().run();
+        new LoadResourceFromClasspathDemo().run();
     }
 
     public void run() {
